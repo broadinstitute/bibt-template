@@ -247,3 +247,4 @@ cython_debug/
 !sa_key_rotate_list.py
 !requirements.txt
 !*.png
+#.idea/
