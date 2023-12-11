@@ -50,7 +50,7 @@ API Reference
    :maxdepth: 2
    :caption: Contents:
 
-   template
+   modules/template
 
 Contributing
 ------------
