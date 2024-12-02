@@ -19,7 +19,7 @@ classifiers = [
   "Topic :: Software Development :: Libraries",
   "Topic :: Utilities",
 ]
-dependencies = ["requests==2.31.0"]
+dependencies = ["requests==2.32.3"]
 description = "Functionality often used by BITS Blue Team (template)."
 name = "bibt-template"
 readme = { file = "README.md", content-type = "text/markdown" }
